@@ -1,2 +1,2 @@
 # h2demo
-A demonstration of MDAO for Airbus UpNext
+A demonstration of MDAO for cryogenically cooled power electronics
